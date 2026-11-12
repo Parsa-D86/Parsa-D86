@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Parsa
-- 👀 I’m interested in programming/game making
-- 🌱 I’m currently learning C++
+# Hi, I'm Parsa
 
+I'm a programming student interested in **system architecture** and **game development**. I’m currently studying C++ and use Python for rapid prototyping and exploring ideas.
 
-<!---
-Parsa-D86/Parsa-D86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy learning how software systems are designed and building projects that bring those ideas to life.
